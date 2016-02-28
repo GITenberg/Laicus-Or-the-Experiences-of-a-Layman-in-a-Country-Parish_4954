@@ -1,0 +1,25 @@
+_repo: Laicus-Or-the-Experiences-of-a-Layman-in-a-Country-Parish_4954
+creator:
+  author:
+    agent_name: Abbott, Lyman
+    birthdate: 1835
+    deathdate: 1922
+    gutenberg_agent_id: '1604'
+    url: http://www.gutenberg.org/2009/agents/1604
+    wikipedia: http://en.wikipedia.org/wiki/Lyman_Abbott
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4954'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New York (State) -- Fiction'
+- !lcsh 'Christian fiction'
+- !lcc 'PS'
+- !lcsh 'Parishes -- Fiction'
+title: Laicus; Or, the Experiences of a Layman in a Country Parish.
+url: http://www.gutenberg.org/ebooks/4954
