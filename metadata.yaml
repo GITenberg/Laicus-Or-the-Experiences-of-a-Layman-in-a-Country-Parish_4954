@@ -1,5 +1,8 @@
 _repo: Laicus-Or-the-Experiences-of-a-Layman-in-a-Country-Parish_4954
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Abbott, Lyman
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1604
     wikipedia: http://en.wikipedia.org/wiki/Lyman_Abbott
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4954#Laicus-Or-the-Experiences-of-a-Layman-in-a-Country-Parish
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
 identifiers:
