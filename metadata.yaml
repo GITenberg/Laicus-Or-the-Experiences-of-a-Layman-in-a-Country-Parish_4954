@@ -1,5 +1,5 @@
 _repo: Laicus-Or-the-Experiences-of-a-Layman-in-a-Country-Parish_4954
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -27,5 +27,6 @@ subjects:
 - !lcsh 'Christian fiction'
 - !lcc 'PS'
 - !lcsh 'Parishes -- Fiction'
+- GITenberg
 title: Laicus; Or, the Experiences of a Layman in a Country Parish.
 url: http://www.gutenberg.org/ebooks/4954
